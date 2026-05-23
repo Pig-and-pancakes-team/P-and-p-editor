@@ -1,7 +1,8 @@
 # P-and-p-editor
 Standalone retro-IDE &amp; fantasy console for rapid prototyping. Powered by Godot 4.
 > **"Pure pixels. Raw logic. Prototyping at the speed of thought."**
-> Download: https://github.com/Pig-and-pancakes-team/P-and-p-editor/releases/tag/1.0
+> **Download: https://github.com/Pig-and-pancakes-team/P-and-p-editor/releases/tag/1.0**
+
 `P&P Editor` is a standalone retro-IDE and fantasy console built on Godot 4. This is a tool for those who want to turn ideas into code faster than brewing a cup of coffee.
 
 ---
