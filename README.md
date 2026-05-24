@@ -6,7 +6,6 @@ Standalone retro-IDE &amp; fantasy console for rapid prototyping. Powered by God
 `P&P Editor` is a standalone retro-IDE and fantasy console built on Godot 4. This is a tool for those who want to turn ideas into code faster than brewing a cup of coffee.
 
 ---
-
  is a standalone fantasy console where the barrier between an idea and its execution is thinner than a single pixel. It’s a "rusty bike" that outruns a Ferrari: no bloated menus, no loading screens—just you, your code, and the grid.
 
 ---
@@ -64,12 +63,49 @@ _e.camera(x, y)           # Shift the world's perspective
 5. Hit F4 to see the magic.
 
 ---
+### Video (Recorded on a potato):
+"The video quality is 360p because I converted it using screen capture on my phone. Yes, it's a workaround. No, I don't regret it. But you can see that the editor works even in such harsh conditions! Don't be alarmed by the quality—the editor itself produces pristine pixels!"
 
+
+https://github.com/user-attachments/assets/d57f6617-b377-49e6-badb-5c5d1c05d2eb
+
+
+https://github.com/user-attachments/assets/80769c47-193e-426c-b70c-e79b0c67e088
+
+
+
+https://github.com/user-attachments/assets/c4734dc6-2ea4-42a0-a063-5420329b4581
+
+
+
+https://github.com/user-attachments/assets/211b9b1d-8198-488f-994d-f265536cc6aa
+
+
+
+
+---
+
+### Screenshots from my computer:
+<img width="1920" height="1036" alt="f2 workspace screenshot" src="https://github.com/user-attachments/assets/e10998b1-844c-4f69-9e0e-4e63ac1238ed" />
+<img width="1920" height="1042" alt="f1 workspace screenshot" src="https://github.com/user-attachments/assets/879d2ca5-f3d7-457b-a41c-4161202c7a18" />
+<img width="1920" height="1038" alt="f3 workspace screenshot" src="https://github.com/user-attachments/assets/8d942da3-995a-4843-8c8b-67b6dee1f32c" />
+<img width="1920" height="1034" alt="f4 workspace screenshot" src="https://github.com/user-attachments/assets/fed9ce26-a6e3-41bf-b184-b9c4f2dace11" />
+
+---
 ### Promises (Summer 2026)
 - [ ] **F8/F9 Slots**: Dedicated tabs for Enemy AI and Animation timelines.
 - [ ] **P&P Hub**: A "Steam + Epic" cocktail for instant cartridge sharing.
 ---
+### Technical Specifications:
+Platform: Windows / PC.
 
+Engine: Godot 4.
+
+Scalability: The editor window is compact by default, but can be expanded for easier work.
+
+---
+Portability:
+The entire editor and your projects weigh only a few megabytes.
 ### 🕹️ Current Masterpiece: **Error-blood and Jam**
 * **Theme:** The Unknown
 * **Special Object:** The Compass
