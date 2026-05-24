@@ -71,7 +71,6 @@ _e.camera(x, y)           # Shift the world's perspective
 ---
 
 ### 🕹️ Current Masterpiece: **Error-blood and Jam**
-*Submission for Jame Gam #58*
 * **Theme:** The Unknown
 * **Special Object:** The Compass
 * *A story about a Error Knight lost in a crystalline red void.*
