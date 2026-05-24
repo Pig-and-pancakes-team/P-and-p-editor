@@ -79,3 +79,8 @@ _e.camera(x, y)           # Shift the world's perspective
 
 **License:** MIT  
 *"Because making a level should be faster than brewing your coffee."*
+
+## ⚠️ Disclaimer:
+1. **Infinite Loops:** There is no protection against infinite loops (e.g., `while true`). If your script contains one, the application will freeze. 
+2. **No Liability:** The author (Pig-and-pancakes-team) is not responsible for any damage, data loss, or system crashes caused by your code executed within the editor. 
+3. **Use at your own risk.**
