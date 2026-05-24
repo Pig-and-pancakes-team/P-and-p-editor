@@ -3,6 +3,16 @@ Standalone retro-IDE &amp; fantasy console for rapid prototyping. Powered by God
 > **"Pure pixels. Raw logic. Prototyping at the speed of thought."**
 > **Download: https://github.com/Pig-and-pancakes-team/P-and-p-editor/releases/tag/1.0**
 
+Add files via upload
+"To play a new game: Launch P&P Editor, press [Q] to open the folder, and drop the .sav file there. Restart the engine — and enjoy!"
+> ### ⚠️ SECURITY WARNING: EXTERNAL CARTRIDGES
+> P&P Editor uses a powerful native scripting engine. Since `.sav` files (cartridges) contain executable code:
+> 1. **ONLY** run `.sav` files from creators you trust.
+> 2. **NEVER** run a cartridge from an unknown or suspicious source.
+> 3. **BUILT-IN PROTECTION**: The engine includes a native "Forbidden Command Filter" to block malicious system calls, but stay vigilant.
+> 
+> *The developer is not responsible for any damage caused by third-party scripts. Your system, your responsibility.*
+
 `P&P Editor` is a standalone retro-IDE and fantasy console built on Godot 4. This is a tool for those who want to turn ideas into code faster than brewing a cup of coffee.
 
 ---
