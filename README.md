@@ -102,10 +102,6 @@ https://github.com/user-attachments/assets/211b9b1d-8198-488f-994d-f265536cc6aa
 <img width="1920" height="1034" alt="f4 workspace screenshot" src="https://github.com/user-attachments/assets/fed9ce26-a6e3-41bf-b184-b9c4f2dace11" />
 
 ---
-### Promises (Summer 2026)
-- [ ] **F8/F9 Slots**: Dedicated tabs for Enemy AI and Animation timelines.
-- [ ] **P&P Hub**: A "Steam + Epic" cocktail for instant cartridge sharing.
----
 ### Technical Specifications:
 Platform: Windows / PC.
 
